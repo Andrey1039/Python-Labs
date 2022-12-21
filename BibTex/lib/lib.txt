@@ -1,0 +1,21 @@
+Author 
+Title .
+Booktitle .
+Type [Text]:
+Editor `
+Journal //
+Number :
+Edition .-
+Address .-
+Publisher :
+School :
+Year .-
+Volume .-
+Chapter .-
+Pages .-
+Numpages .-
+Series .-
+Note .-
+Nite .-
+File .
+Addendum .-
